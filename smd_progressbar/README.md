@@ -35,6 +35,7 @@ Join to the Discord for support. (https://discord.gg/KPwVFDpK4a)
 Releases:
 - SMD_Applepicking: https://forum.cfx.re/t/esx-free-smd-applepicking/4984310 
 - SMD_Fishing: https://forum.cfx.re/t/esx-paid-smd-fishing-v2/4912859
+- SMD_Progressbar: https://forum.cfx.re/t/standalone-free-smd-progressbar/5039823
 
 
                 
