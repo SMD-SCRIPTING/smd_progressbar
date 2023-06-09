@@ -16,6 +16,7 @@ Adds simple, minimalistic and easy to use progressbar to your server. Contains o
 # Previews
 ![image](https://i.imgur.com/PtbPSFn.png[/img])
 ![image](https://i.imgur.com/wljwaXm.jpg[/img])
+
 https://github.com/SMD-SCRIPTING/smd_progressbar/assets/121685577/9285c738-6d56-49ca-9c35-1fee61df9635
 
 # Installation
