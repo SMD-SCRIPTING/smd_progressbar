@@ -8,10 +8,10 @@ Adds simple, minimalistic and easy to use progressbar to your server. Contains o
 - You can use this with my other releases, updated the other releases
 - Support in Discord
 
-- V1.1
-• Added checkmark at the end of the task
-• Made everything bigger, its more clear
-• Changed the font
+# UPDATE V1.1
+- Added checkmark at the end of the task
+- Made everything bigger, its more clear
+- Changed the font
 
 # Previews
 ![image](https://i.imgur.com/PtbPSFn.png[/img])
